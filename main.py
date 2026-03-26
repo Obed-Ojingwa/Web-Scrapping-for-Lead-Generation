@@ -3,6 +3,7 @@ Nigeria Company Leads Scraper
 Author: Senior Data Engineer Script
 """
 
+import utils.session
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
